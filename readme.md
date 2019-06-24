@@ -1,0 +1,1 @@
+This the task from codesignal.com
